@@ -1,5 +1,4 @@
 
-```markdown
 # 🚀 Spring Boot In-Memory Todo Tracker API
 
 A lightweight, robust RESTful Todo Tracker built from absolute scratch using **Spring Boot** and **Java**. This project was created as a hands-on learning exercise to understand core backend concepts, REST architectural patterns, and Spring Boot's dependency injection and request routing.
@@ -89,7 +88,7 @@ Open your browser or API client (like Postman / Thunder Client) at:
 * Handling HTTP methods (`GET`, `POST`, `DELETE`) with annotations like `@RestController`, `@GetMapping`, `@PostMapping`, and `@PathVariable`.
 * Automating JSON serialization using Spring's built-in Jackson engine.
 
-```
+
 
 
 
